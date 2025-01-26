@@ -50,4 +50,4 @@ I want to continue improving my coding skills all around
 
 ## Author
 
-- Website - [Christopher Aidan](https://sociallinks4cris.netlify.app/)
+- Website - [Christopher Aidan](https://blogpreviewcardaydan.netlify.app/)
